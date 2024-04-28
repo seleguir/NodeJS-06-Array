@@ -1,0 +1,20 @@
+body{
+    margin-top: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    font-style: italic;
+}
+
+button {
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    border-color: blueviolet;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
